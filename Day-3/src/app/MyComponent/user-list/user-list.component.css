@@ -1,0 +1,49 @@
+/* Container for the user item */
+.my-3 {
+  padding: 15px;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  background-color: #f8f9fa;
+  margin-bottom: 15px;
+  transition: background-color 0.3s;
+}
+
+/* User name and address */
+.my-3 h5,
+.my-3 p {
+  margin: 0;
+  color: #343a40;
+}
+
+/* Strike-through class for inactive users */
+.strike {
+  text-decoration: line-through;
+  color: #6c757d;
+}
+
+/* Checkbox styling */
+.form-group.form-check {
+  margin: 10px 0;
+}
+
+.form-check-input {
+  margin-right: 10px;
+}
+
+.form-check-label {
+  margin: 0;
+  color: #343a40;
+}
+
+/* Delete button */
+.btn-danger {
+  font-size: 0.875rem;
+  padding: 0.375rem 0.75rem;
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+/* Delete button hover state */
+.btn-danger:hover {
+  background-color: #c82333;
+  border-color: #bd2130;
+}

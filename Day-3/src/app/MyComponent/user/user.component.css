@@ -1,0 +1,44 @@
+/* Container styling */
+.container {
+  margin-top: 20px;
+}
+
+/* Centered heading */
+h1.text-center {
+  font-size: 2.5rem;
+  color: #007bff;
+}
+
+/* Subheading */
+h4 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #343a40;
+}
+
+/* Message for no users */
+.no-users {
+  font-size: 1.2rem;
+  color: #6c757d;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* User list item */
+.app-user-list {
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 10px;
+  background-color: #f8f9fa;
+  transition: background-color 0.3s;
+}
+
+.app-user-list:hover {
+  background-color: #e2e6ea;
+}
+
+/* Additional styling for user add form */
+app-add-user {
+  margin-bottom: 20px;
+}

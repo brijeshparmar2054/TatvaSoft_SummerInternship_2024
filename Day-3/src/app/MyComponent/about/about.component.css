@@ -1,0 +1,58 @@
+/* Container styling */
+.container.my-3 {
+  margin-top: 20px;
+}
+
+/* Jumbotron styling */
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: 0.3rem;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s;
+}
+
+/* Jumbotron hover effect */
+.jumbotron:hover {
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+}
+
+/* Jumbotron heading */
+.jumbotron .display-4 {
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+  color: #343a40;
+}
+
+/* Lead paragraph */
+.jumbotron .lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: #6c757d;
+}
+
+/* Divider line */
+.jumbotron .my-4 {
+  border-top: 1px solid #dee2e6;
+  margin: 1.5rem 0;
+}
+
+/* Paragraph styling */
+.jumbotron p {
+  color: #495057;
+}
+
+/* Button styling */
+.jumbotron .btn-primary {
+  font-size: 1.25rem;
+  padding: 0.75rem 1.25rem;
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+/* Button hover state */
+.jumbotron .btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}

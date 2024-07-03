@@ -1,0 +1,55 @@
+/* Container for the form */
+.my-3 {
+  padding: 20px;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  background-color: #f8f9fa;
+  margin-bottom: 20px;
+}
+
+/* Form heading */
+.my-3 h4 {
+  margin-bottom: 20px;
+  color: #343a40;
+}
+
+/* Form labels */
+.my-3 .form-group label {
+  font-weight: bold;
+  color: #495057;
+}
+
+/* Form inputs */
+.my-3 .form-control {
+  margin-bottom: 15px;
+  padding: 10px;
+  font-size: 1rem;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+/* Input focus state */
+.my-3 .form-control:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+/* Submit button */
+.my-3 .btn-primary {
+  font-size: 0.875rem;
+  padding: 0.5rem 1rem;
+  transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+}
+
+/* Submit button hover state */
+.my-3 .btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
