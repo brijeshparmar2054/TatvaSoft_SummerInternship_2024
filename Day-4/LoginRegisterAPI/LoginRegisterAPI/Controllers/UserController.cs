@@ -13,7 +13,7 @@ namespace LoginRegisterAPI.Controllers
             _context = appDbContext;
         }
 
-        [HttpPost("login")]
+        [HttpPost("api/user/login")]
         public async Task<IActionResult> LoginUser([FromBody] User userObj)
         {
             if(userObj == null)
@@ -29,7 +29,7 @@ namespace LoginRegisterAPI.Controllers
             return Ok(new {Message = "Login Success!"});
         }
 
-        [HttpPost("register")]
+        [HttpPost("api/user/register")]
         public async Task<IActionResult> RegisterUser([FromBody] User userObj)
         {
             if (userObj == null)

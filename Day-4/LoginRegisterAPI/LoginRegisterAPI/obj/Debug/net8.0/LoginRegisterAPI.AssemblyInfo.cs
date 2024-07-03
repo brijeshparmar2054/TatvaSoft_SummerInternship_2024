@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginRegisterAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+567959fc01eed5230b94594102a9de79d409613e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginRegisterAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginRegisterAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vLNZI9BfEuw=",
+  "dgSpecHash": "ERYq/3OL+nk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\LoginRegisterAPI\\LoginRegisterAPI.csproj",
+  "projectFilePath": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\LoginRegisterAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRIJESH\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\BRIJESH\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.6\\microsoft.aspnetcore.authentication.jwtbearer.8.0.6.nupkg.sha512",

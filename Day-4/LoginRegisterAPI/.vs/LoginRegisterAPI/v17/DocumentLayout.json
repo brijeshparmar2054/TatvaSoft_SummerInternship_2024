@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-4\\day-4_codes\\loginregisterapi\\loginregisterapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\final\\tatvasoft_summerinternship_2024\\day-4\\loginregisterapi\\loginregisterapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|solutionrelative:loginregisterapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-4\\day-4_codes\\loginregisterapi\\loginregisterapi\\migrations\\20240703120018_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\final\\tatvasoft_summerinternship_2024\\day-4\\loginregisterapi\\loginregisterapi\\migrations\\20240703120018_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|solutionrelative:loginregisterapi\\migrations\\20240703120018_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-4\\day-4_codes\\loginregisterapi\\loginregisterapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\final\\tatvasoft_summerinternship_2024\\day-4\\loginregisterapi\\loginregisterapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|solutionrelative:loginregisterapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-4\\day-4_codes\\loginregisterapi\\loginregisterapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\final\\tatvasoft_summerinternship_2024\\day-4\\loginregisterapi\\loginregisterapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|solutionrelative:loginregisterapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-4\\day-4_codes\\loginregisterapi\\loginregisterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\final\\tatvasoft_summerinternship_2024\\day-4\\loginregisterapi\\loginregisterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|solutionrelative:loginregisterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-4\\day-4_codes\\loginregisterapi\\loginregisterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\final\\tatvasoft_summerinternship_2024\\day-4\\loginregisterapi\\loginregisterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E7E9033-8B05-4003-BD4A-38BD4DE763D8}|LoginRegisterAPI\\LoginRegisterAPI.csproj|solutionrelative:loginregisterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\LoginRegisterAPI\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "LoginRegisterAPI\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\LoginRegisterAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "LoginRegisterAPI\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T12:04:59.552Z",
               "EditorCaption": ""
@@ -53,22 +53,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "20240703120018_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\LoginRegisterAPI\\Migrations\\20240703120018_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\Migrations\\20240703120018_Initial.cs",
               "RelativeDocumentMoniker": "LoginRegisterAPI\\Migrations\\20240703120018_Initial.cs",
-              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\LoginRegisterAPI\\Migrations\\20240703120018_Initial.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\Migrations\\20240703120018_Initial.cs",
               "RelativeToolTip": "LoginRegisterAPI\\Migrations\\20240703120018_Initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T12:00:19.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T12:00:19.409Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\LoginRegisterAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\appsettings.json",
               "RelativeDocumentMoniker": "LoginRegisterAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\LoginRegisterAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\appsettings.json",
               "RelativeToolTip": "LoginRegisterAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -78,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\LoginRegisterAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\Program.cs",
               "RelativeDocumentMoniker": "LoginRegisterAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\LoginRegisterAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\Program.cs",
               "RelativeToolTip": "LoginRegisterAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,27 +89,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\LoginRegisterAPI\\Context\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "LoginRegisterAPI\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\LoginRegisterAPI\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\Context\\AppDbContext.cs",
               "RelativeToolTip": "LoginRegisterAPI\\Context\\AppDbContext.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAowBAAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T11:31:41.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T11:31:41.237Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\LoginRegisterAPI\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "LoginRegisterAPI\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-4\\Day-4_Codes\\LoginRegisterAPI\\LoginRegisterAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\Models\\User.cs",
               "RelativeToolTip": "LoginRegisterAPI\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T11:25:50.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T11:25:50.046Z"
             }
           ]
         }
