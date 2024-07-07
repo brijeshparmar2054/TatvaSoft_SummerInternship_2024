@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\LoginRegisterAPI.csproj": {}
+    "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\LoginRegisterAPI.csproj": {
+    "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\LoginRegisterAPI.csproj",
+        "projectUniqueName": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI.csproj",
         "projectName": "LoginRegisterAPI",
-        "projectPath": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\LoginRegisterAPI.csproj",
+        "projectPath": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI.csproj",
         "packagesPath": "C:\\Users\\BRIJESH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\LoginRegisterAPI\\obj\\",
+        "outputPath": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Final\\TatvaSoft_SummerInternship_2024\\Day-4\\LoginRegisterAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRIJESH\\AppData\\Roaming\\NuGet\\NuGet.Config",
