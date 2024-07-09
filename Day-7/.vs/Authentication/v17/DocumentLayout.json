@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-7\\authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-7\\authentication\\repository\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-7\\authentication\\repository\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-7\\authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-7\\authentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-7\\authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-7\\authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-7\\authentication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-7\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\brijesh\\desktop\\internship\\tatvasoft\\day-7\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\MissionController.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\MissionController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:37.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Authentication\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Entities\\User.cs",
+              "RelativeToolTip": "Authentication\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:37.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMission.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Repository\\IMission.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\IMission.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Repository\\IMission.cs",
+              "RelativeToolTip": "Authentication\\Repository\\IMission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:37.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Repository\\Mission.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\Mission.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Repository\\Mission.cs",
+              "RelativeToolTip": "Authentication\\Repository\\Mission.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowG4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:37.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:37.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthContext.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\AuthContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\AuthContext.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\AuthContext.cs",
+              "RelativeToolTip": "Authentication\\AuthContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:37.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Program.cs",
+              "RelativeToolTip": "Authentication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:37.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\appsettings.json",
+              "RelativeToolTip": "Authentication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T12:27:37.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Authentication\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Model\\User.cs",
+              "RelativeToolTip": "Authentication\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:37.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Desktop\\InternShip\\TatvaSoft\\Day-7\\Authentication\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:27:37.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
