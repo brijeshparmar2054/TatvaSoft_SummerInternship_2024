@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRIJESH\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|c:\\users\\brijesh\\downloads\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\brijesh\\downloads\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi_postgresql-master\\data_access_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\brijesh\\downloads\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi_postgresql-master\\data_access_layer\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|c:\\users\\brijesh\\downloads\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\brijesh\\downloads\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi_postgresql-master\\data_access_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|c:\\users\\brijesh\\downloads\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALAdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALAdminUser.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALAdminUser.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALAdminUser.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALAdminUser.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAlwGUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:06:24.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Repository\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Repository\\Entities\\User.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\User.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA5wCkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:06:08.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DALLogin.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALLogin.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALLogin.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALLogin.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALLogin.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA3wGgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:03:13.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAlwDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:58:18.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:58:07.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIJESH\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Program.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwBkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:50:20.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
