@@ -1,0 +1,11 @@
+1.Introduction about cloud
+2.Introduction about Microsoft Azure and it's service(Mainly postgres server and web apps)
+3.Hosting postgres SQL on Azure
+4.Host .NET API on Azure
+5.Host angular project on Azure
+6.Connect angular and .NET API project
+7.Talking about errors that might be occur
+	-Cross origin error
+	-URL mismatch error
+	-SCM basic auth publishing credentials(Turn on)
+8.Q/A
