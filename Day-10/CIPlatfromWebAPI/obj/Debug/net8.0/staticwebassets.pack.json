@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\BRIJESH\\Downloads\\TatvaSoft_internship_mahesh-main\\TatvaSoft_internship_mahesh-main\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\12102040601001.jpeg_20240605015346.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\12102040601001.jpeg_20240605015346.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\BRIJESH\\Downloads\\TatvaSoft_internship_mahesh-main\\TatvaSoft_internship_mahesh-main\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\12102040601001_S.jpeg_20240606012640.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\12102040601001_S.jpeg_20240606012640.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\BRIJESH\\Downloads\\TatvaSoft_internship_mahesh-main\\TatvaSoft_internship_mahesh-main\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-04-02 024109_20240602161114.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-04-02 024109_20240602161114.png"
+    },
+    {
+      "Id": "C:\\Users\\BRIJESH\\Downloads\\TatvaSoft_internship_mahesh-main\\TatvaSoft_internship_mahesh-main\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-31 150056_20240602150310.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-05-31 150056_20240602150310.png"
+    },
+    {
+      "Id": "C:\\Users\\BRIJESH\\Downloads\\TatvaSoft_internship_mahesh-main\\TatvaSoft_internship_mahesh-main\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\curry_2_20240711170850.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\curry_2_20240711170850.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BRIJESH\\Downloads\\TatvaSoft_internship_mahesh-main\\TatvaSoft_internship_mahesh-main\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\luka_20240711162133.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\luka_20240711162133.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BRIJESH\\Downloads\\TatvaSoft_internship_mahesh-main\\TatvaSoft_internship_mahesh-main\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\luka_20240711164703.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\luka_20240711164703.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BRIJESH\\Downloads\\TatvaSoft_internship_mahesh-main\\TatvaSoft_internship_mahesh-main\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\luka_20240711165743.jpg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\luka_20240711165743.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_API.props",
+      "PackagePath": "build\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_API.props",
+      "PackagePath": "buildMultiTargeting\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_API.props",
+      "PackagePath": "buildTransitive\\Web_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

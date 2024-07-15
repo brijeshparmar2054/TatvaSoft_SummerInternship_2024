@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRIJESH\\Downloads\\TatvaSoft_internship_mahesh-main\\TatvaSoft_internship_mahesh-main\\CIPlatfromWebAPI_PostgreSQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|c:\\users\\brijesh\\downloads\\tatvasoft_internship_mahesh-main\\tatvasoft_internship_mahesh-main\\ciplatfromwebapi_postgresql\\ciplatfromwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BRIJESH\\Downloads\\TatvaSoft_internship_mahesh-main\\TatvaSoft_internship_mahesh-main\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\BRIJESH\\Downloads\\TatvaSoft_internship_mahesh-main\\TatvaSoft_internship_mahesh-main\\CIPlatfromWebAPI_PostgreSQL\\CIPlatfromWebAPI\\appsettings.json",
+              "RelativeToolTip": "CIPlatfromWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T09:16:14.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
