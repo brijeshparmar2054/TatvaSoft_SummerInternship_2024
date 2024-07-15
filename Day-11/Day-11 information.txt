@@ -1,0 +1,2 @@
+Know about how to create stored procedure ,how to use it and why it's being used.
+Created my profile section using stored procedure for displaying into the user profile page and user can update the profile.
